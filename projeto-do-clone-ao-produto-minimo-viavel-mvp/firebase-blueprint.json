@@ -1,0 +1,45 @@
+{
+  "entities": {
+    "users": {
+      "title": "User",
+      "description": "User profile information",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string", "description": "Firebase Auth UID" },
+        "email": { "type": "string", "format": "email", "description": "User email address" },
+        "displayName": { "type": "string", "description": "User display name" },
+        "photoURL": { "type": "string", "description": "User profile picture URL" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Account creation timestamp" }
+      },
+      "required": ["uid", "email"]
+    },
+    "presets": {
+      "title": "Preset",
+      "description": "Saved neumorphic shadow preset",
+      "type": "object",
+      "properties": {
+        "name": { "type": "string", "description": "Name of the preset" },
+        "bgColor": { "type": "string" },
+        "size": { "type": "number" },
+        "radius": { "type": "number" },
+        "distance": { "type": "number" },
+        "blur": { "type": "number" },
+        "intensity": { "type": "number" },
+        "isInset": { "type": "boolean" },
+        "shape": { "type": "string", "enum": ["square", "circle"] },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["name", "bgColor", "size", "radius", "distance", "blur", "intensity", "isInset", "shape"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "users",
+      "description": "User documents stored by their UID"
+    },
+    "/users/{userId}/presets/{presetId}": {
+      "schema": "presets",
+      "description": "User's saved presets"
+    }
+  }
+}
