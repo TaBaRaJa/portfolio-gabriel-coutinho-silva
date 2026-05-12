@@ -10,7 +10,7 @@ O **Neumorph Studio** é uma ferramenta avançada de design focada na criação 
 
 Diferente de geradores simples, este sistema oferece controle total sobre a profundidade (inset/outset), intensidade da sombra, suavidade e formas (quadrado/círculo), permitindo que designers e desenvolvedores front-end criem componentes modernos com poucos cliques.
 
-**Acesse o App:** [Neumorph Studio Live](https://ais-pre-3mjnrbnj27qtwgqtf7nlde-637583970846.us-east1.run.app)
+**Acesse o App:** [Neumorph Studio Live](https://neuromorphism-3522b.web.app/)
 
 ---
 
