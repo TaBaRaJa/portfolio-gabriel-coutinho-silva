@@ -50,4 +50,4 @@ O desenvolvimento deste projeto envolveu desafios complexos de manipulação de 
 ---
 [Voltar ao início](https://github.com/TaBaRaJa/portfolio-gabriel-coutinho-silva)
 
-Feito com ❤️ por **Gabriel Coutinho Silva** - [sgabrielcoutinho50@gmail.com](mailto:sgabrielcoutinho50@gmail.com)
+Feito por **Gabriel Coutinho Silva** - [sgabrielcoutinho50@gmail.com](mailto:sgabrielcoutinho50@gmail.com)
