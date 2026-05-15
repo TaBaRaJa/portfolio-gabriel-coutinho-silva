@@ -6,6 +6,8 @@ Este projeto consiste em um gerador avançado de CSS focado no design **Neumorph
 
 Desenvolvido para simplificar o workflow de design moderno, o sistema permite a customização em tempo real de propriedades como distância, desfoque (blur), intensidade e raio de curvatura. Além disso, conta com um algoritmo inteligente que ajusta automaticamente a luminância das sombras com base na cor de fundo selecionada, garantindo que o efeito neumórfico seja sempre consistente e esteticamente agradável.
 
+![Banner](./imagem/imagem1.png)
+
 
 🚀 **Tecnologias Utilizadas**
 
