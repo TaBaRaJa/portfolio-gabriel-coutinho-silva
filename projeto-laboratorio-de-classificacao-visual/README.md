@@ -9,6 +9,8 @@ Este projeto apresenta um experimento prático de **Classificação Visual** uti
 
 Desenvolvido como parte da disciplina de Inteligência Artificial, o sistema utiliza visão computacional para associar características visuais (vestimenta e gênero) a categorias profissionais, revelando como seleções restritas de dados podem perpetuar estereótipos sociais e lógicas distorcidas.
 
+![Banner](./img/imagem-leadership.jpeg)
+
 ## 🚀 Tecnologias Utilizadas
 *   **Ferramenta:** Google Teachable Machine
 *   **Engine:** TensorFlow.js (Back-end do modelo exportado)
