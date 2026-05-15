@@ -12,6 +12,8 @@ Diferente de geradores simples, este sistema oferece controle total sobre a prof
 
 **Acesse o App:** [Neumorph Studio Live](https://neuromorphism-3522b.web.app/)
 
+![Banner](./imagem/imagem.png)
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
